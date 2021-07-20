@@ -4,7 +4,6 @@
 Oi, sou Hugo Tiyoda e comecei a estudar programação em março de 2021.
 Curso Sistemas de Informação na FIAP com previsão de término de curso em 2025.
 [Linkedin](https://www.linkedin.com/in/hugo-yukio-tiyoda-473b9715a/)
-
 Estou dando enfase ao aprendizado de JAVA e programação orientada a objetos (OOP) mas tenho conhecimento basico em linguagens de escrita como HTML e CSS.
 
 
